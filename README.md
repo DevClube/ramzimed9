@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programing & Computer Science
 - 🌱 I’m currently learning Html & CSS & JAVA Script 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ,just don't.
+- 📫 Don't forget to reach me
 
 <!---
 ramzimed9/ramzimed9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
